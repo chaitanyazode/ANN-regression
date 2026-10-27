@@ -1,1 +1,1 @@
-RNN Regression Practical
+RNN Regression Practical Implementation
